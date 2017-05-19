@@ -1,14 +1,12 @@
 ## Welcome to Samantha Coyle's Website
 
-#Introduction
+I am currently a student at Texas State University. I love all things math and sceince related, so I decided to become a Computer Science major, alongside my identical twin sister [Cassandra Coyle](www.cassiecoyle.me). I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
 
-I am currently a Sophomore at Texas State University. I am a Computer Science major, alongside my identical twin sister [Cassandra Coyle](www.cassiecoyle.me). I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
+Here is a [link](https://github.com/sicoyle/txstcs) to my school repository as I continue to improve my skills.
 
-Here is the [link](https://github.com/sicoyle/txstcs) to my school repository as I continue learning and improving my Computer Science skills at Texas State University.
+### Resume
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a list of my credentials:
 
 ```markdown
 Syntax highlighted code block
