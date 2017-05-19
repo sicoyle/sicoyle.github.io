@@ -1,8 +1,10 @@
 ## Welcome to Samantha Coyle's Website
 
-Here is the [link](https://github.com/sicoyle/txstcs) to my school repository as I continue learning and improving my Computer Science skills at Texas State University.
+#Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a Sophomore at Texas State University. I am a Computer Science major, alongside my identical twin sister [Cassandra Coyle](www.cassiecoyle.me). I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
+
+Here is the [link](https://github.com/sicoyle/txstcs) to my school repository as I continue learning and improving my Computer Science skills at Texas State University.
 
 ### Markdown
 
