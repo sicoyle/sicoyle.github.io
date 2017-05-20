@@ -4,11 +4,13 @@ I am currently a student at Texas State University. I love all things math and s
 
 Here is a [link](https://github.com/sicoyle/txstcs) to a repository dedicated to school projects.
 
-### Resume
+### Contact
 
 Cell: (830) 477-1833
 
 Email: samc@txstate.edu
+
+### Resume
 
 ```markdown
 **Education**
