@@ -7,6 +7,7 @@ Here is a [link](https://github.com/sicoyle/txstcs) to a repository dedicated to
 ### Resume
 
 Cell: (830) 477-1833
+
 Email: samc@txstate.edu
 
 ```markdown
@@ -21,19 +22,19 @@ Email: samc@txstate.edu
 		Concessionist, box office, door
 		July 7, 2013 - present
 	
-	I am currently working on an app with my brother and sister. Details are on the way!
+	I am currently working on an app with my brother and sister. More details are on the way!
 
 **Activities**
 
-	Computer Sceince Club member
+	Computer Science Club member
 		Fall 2016 - present
 
-	International Business Ethics Case Compeition
+	International Business Ethics Case Compeition competitor
 		Spring 2017 - present
 		1st place 4 mile biathalon
 		2nd place 90 second presentation	
 	
-	Bobcat Build
+	Bobcat Build volunteer
 		Spring 2017
 
 ```
