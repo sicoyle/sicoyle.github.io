@@ -1,6 +1,6 @@
 ## Welcome to Samantha Coyle's Website
 
-I am currently a student at Texas State University. I love all things math and sceince related, so I decided to become a Computer Science major, alongside my identical twin sister [Cassandra Coyle](https://cicoyle.github.io). I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
+I am currently a student at Texas State University. I love all things math and sceince related, so I decided to become a Computer Science major, alongside my identical twin sister [Cassandra Coyle](https://github.com/cicoyle/cicoyle.github.io). I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
 
 Here is a [link](https://github.com/sicoyle/txstcs) to a repository dedicated to school projects.
 
