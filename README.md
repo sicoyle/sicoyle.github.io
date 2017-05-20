@@ -1,37 +1,39 @@
 ## Welcome to Samantha Coyle's Website
 
-I am currently a student at Texas State University. I love all things math and sceince related, so I decided to become a Computer Science major, alongside my identical twin sister [Cassandra Coyle](www.cassiecoyle.me). I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
+I am currently a student at Texas State University. I love all things math and sceince related, so I decided to become a Computer Science major, alongside my identical twin sister [Cassandra Coyle](cassiecoyle.me). I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
 
-Here is a [link](https://github.com/sicoyle/txstcs) to my school repository as I continue to improve my skills.
+Here is a [link](https://github.com/sicoyle/txstcs) to a repository dedicated to school projects.
 
 ### Resume
 
-Here is a list of my credentials:
+Cell: (830) 477-1833
+Email: samc@txstate.edu
 
 ```markdown
-Syntax highlighted code block
+**Education**
 
-# Header 1
-## Header 2
-### Header 3
+	GPA: 4.0
+	Dean's list Fall 2016, Spring 2017
 
-- Bulleted
-- List
+**Work Experience**
 
-1. Numbered
-2. List
+	King Ranger Theatre located in Seguin, TX
+		Concessionist, box office, door
+		July 7, 2013 - present
+	
+	I am currently working on an app with my brother and sister. Details are on the way!
 
-**Bold** and _Italic_ and `Code` text
+**Activities**
 
-[Link](url) and ![Image](src)
+	Computer Sceince Club member
+		Fall 2016 - present
+
+	International Business Ethics Case Compeition
+		Spring 2017 - present
+		1st place 4 mile biathalon
+		2nd place 90 second presentation	
+	
+	Bobcat Build
+		Spring 2017
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sicoyle/sicoyle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
