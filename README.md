@@ -8,7 +8,7 @@ Works well with [this collaborator](http://www.cassiecoyle.me).
 
 ### Contact
 
-Cell: (830) 477-1833
+Cell: 830 477 1833
 
 Email: samc@txstate.edu
 
