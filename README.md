@@ -28,7 +28,7 @@ Email: samc@txstate.edu
 
 	Researcher for ocular tracking via MatLab.
 
-	Texas State Supplimental Instructor for Calculus I.
+	Texas State Supplemental Instructor for Calculus I.
 
 	High School job: long-term popcorn saleswoman.
 
