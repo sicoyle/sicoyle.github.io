@@ -1,6 +1,6 @@
 ## Welcome to Samantha Coyle's Website
 
-I am currently a student at Texas State University. With a love for all things math and science, I decided to become a Computer Science major. I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
+I am currently a student at Texas State University. With a love for solving intricate problems, I decided to become a Computer Science major. I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
 
 Here is a [link](https://github.com/sicoyle/txstcs) to my repository dedicated to school projects.
 
@@ -18,7 +18,7 @@ Email: samc@txstate.edu
 **Education**
 
 	GPA: 4.0
-	Dean's list Fall 2016, Spring 2017
+	Dean's list Fall 2016, Spring 2017, Fall 2017
 
 **Professional Experience**
 
@@ -29,6 +29,8 @@ Email: samc@txstate.edu
 	Researcher for ocular tracking via MatLab.
 
 	Texas State Supplemental Instructor for Calculus I.
+
+	Texas State University Grader for Assembly Language.
 
 	High School job: long-term popcorn saleswoman.
 
