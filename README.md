@@ -23,12 +23,10 @@ Email: sam98coyle@gmail.com
 	Dean's list Fall 2016, Spring 2017, Fall 2017
 
 **Professional Experience**
+
+	CGI Software Development/Engineering intern, .3 year venture.
 	
 	Researcher for runtime efficiency regarding C and Python.
-
-	Logistic solution for print marketing and social purposes, 2 year venture.
-
-	Alpha version of investment platform, 1.2 year venture.
 
 	Researcher for ocular tracking via MatLab.
 
