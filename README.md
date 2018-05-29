@@ -6,6 +6,8 @@ Here is a [link](https://github.com/sicoyle/txstcs) to my repository dedicated t
 
 Here is a [link](http://samcoyle.me/Research/) to my research.
 
+Here is a [link](https://www.linkedin.com/in/samantha-coyle-a038b414a/) to my linkedin account.
+
 Works well with [this collaborator](http://www.cassiecoyle.me).
 
 ### Contact
