@@ -19,12 +19,12 @@ Email: sam98coyle@gmail.com
 ### Resume
 
 ```markdown
-**Education**
+Education
 
 	GPA: 4.0
-	Dean's list Fall 2016, Spring 2017, Fall 2017
+	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
 
-**Professional Experience**
+Professional Experience
 
 	CGI Software Development/Engineering intern, .3 year venture.
 	
@@ -38,7 +38,7 @@ Email: sam98coyle@gmail.com
 
 	High School job: long-term popcorn saleswoman.
 
-**Activities**
+Activities
 
 	Computer Science Club member
 		Fall 2016 - present
@@ -52,5 +52,8 @@ Email: sam98coyle@gmail.com
 	
 	Bobcat Build volunteer
 		Spring 2017
+
+	Compilers Research Lab
+		Spring 2018 - present
 
 ```
