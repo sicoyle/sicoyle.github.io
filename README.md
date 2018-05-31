@@ -4,7 +4,7 @@ I am currently a student at Texas State University. With a love for solving intr
 
 Here is a [link](https://github.com/sicoyle/txstcs) to my repository dedicated to school projects.
 
-Here is a [link](http://samcoyle.me/Research/) to my research.
+Here is a [link](http://samcoyle.me/Research/) to a github page dedicated to my research Spring 2018.
 
 Here is a [link](https://www.linkedin.com/in/samantha-coyle-a038b414a/) to my linkedin account.
 
