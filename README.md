@@ -20,6 +20,7 @@ Email: sam@samcoyle.me
 
 ```markdown
 **Education**
+
 	GPA: 4.0
 	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
 
