@@ -19,12 +19,12 @@ Email: sam98coyle@gmail.com
 ### Resume
 
 ```markdown
-Education
+_Education_
 
 	GPA: 4.0
 	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
 
-Professional Experience
+_Professional Experience_
 
 	CGI Software Development/Engineering intern, .3 year venture.
 	
@@ -38,7 +38,7 @@ Professional Experience
 
 	High School job: long-term popcorn saleswoman.
 
-Activities
+_Activities_
 
 	Computer Science Club member
 		Fall 2016 - present
