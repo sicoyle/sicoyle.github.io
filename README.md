@@ -14,7 +14,7 @@ Works well with [this collaborator](http://www.cassiecoyle.me).
 
 Cell: 830 477 1833
 
-Email: sam98coyle@gmail.com
+Email: sam@samcoyle.me
 
 ### Resume
 
