@@ -21,16 +21,14 @@ Email: sam@samcoyle.me
 <strong>Education</strong>
 
 ```markdown
-
 	GPA: 4.0
-	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
 
+	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
 ```
 
 <strong>Professional Experience</strong>
 
 ```markdown
-
 	CGI Software Development/Engineering intern, .3 year venture.
 	
 	Researcher for runtime efficiency regarding C and Python.
@@ -48,7 +46,6 @@ Email: sam@samcoyle.me
 <strong>Activities</strong>
 
 ```markdown
-
 	Computer Science Club member
 		Fall 2016 - present
 
@@ -64,6 +61,5 @@ Email: sam@samcoyle.me
 
 	Compilers Research Lab
 		Spring 2018 - present
-
 
 ```
