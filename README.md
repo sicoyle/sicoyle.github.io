@@ -18,7 +18,7 @@ Email: sam@samcoyle.me
 
 ### Resume
 
-##<em>Education</em>
+##Education
 
 ```markdown
 	GPA: 4.0
