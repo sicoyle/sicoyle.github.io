@@ -18,7 +18,6 @@ Email: sam@samcoyle.me
 
 ### Resume
 
-<div class="body">
 <strong>Education</strong>
 
 ```markdown
@@ -27,9 +26,7 @@ Email: sam@samcoyle.me
 	<li>Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018</li>
 </ul>
 ```
-</div>
 
-<div class="body">
 <strong>Professional Experience</strong>
 
 ```markdown
@@ -45,9 +42,7 @@ Email: sam@samcoyle.me
 
 	High School job: long-term popcorn saleswoman.
 ```
-</div>
 
-<div class="body">
 <strong>Activities</strong>
 
 ```markdown
@@ -68,4 +63,3 @@ Email: sam@samcoyle.me
 		Spring 2018 - present
 
 ```
-</div>
