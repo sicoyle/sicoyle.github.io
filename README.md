@@ -17,8 +17,8 @@ Cell: 830 477 1833
 Email: sam@samcoyle.me
 
 ### Resume
-<div>
 
+<div class="body">
 <strong>Education</strong>
 
 <ul>
@@ -28,7 +28,7 @@ Email: sam@samcoyle.me
 
 </div>
 
-<div>
+<div class="body">
 <strong>Professional Experience</strong>
 
 	CGI Software Development/Engineering intern, .3 year venture.
@@ -44,7 +44,7 @@ Email: sam@samcoyle.me
 	High School job: long-term popcorn saleswoman.
 
 </div>
-<div>
+<div class="body">
 <strong>Activities</strong>
 
 	Computer Science Club member
@@ -64,3 +64,8 @@ Email: sam@samcoyle.me
 		Spring 2018 - present
 
 </div>
+
+.body{
+	background: honeydew;
+	color: #333;
+}
