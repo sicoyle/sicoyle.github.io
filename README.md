@@ -21,16 +21,18 @@ Email: sam@samcoyle.me
 <div class="body">
 <strong>Education</strong>
 
+```markdown
 <ul>
 	<li>GPA: 4.0</li>
 	<li>Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018</li>
 </ul>
-
+```
 </div>
 
 <div class="body">
 <strong>Professional Experience</strong>
 
+```markdown
 	CGI Software Development/Engineering intern, .3 year venture.
 	
 	Researcher for runtime efficiency regarding C and Python.
@@ -42,11 +44,13 @@ Email: sam@samcoyle.me
 	Texas State University Grader for Assembly Language and Data Structures.
 
 	High School job: long-term popcorn saleswoman.
-
+```
 </div>
+
 <div class="body">
 <strong>Activities</strong>
 
+```markdown
 	Computer Science Club member
 		Fall 2016 - present
 
@@ -63,9 +67,5 @@ Email: sam@samcoyle.me
 	Compilers Research Lab
 		Spring 2018 - present
 
+```
 </div>
-
-.body{
-	background: honeydew;
-	color: #333;
-}
