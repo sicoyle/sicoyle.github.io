@@ -17,7 +17,7 @@ Cell: 830 477 1833
 Email: sam@samcoyle.me
 
 ### Resume
-<section>
+<div>
 
 <strong>Education</strong>
 
@@ -25,6 +25,7 @@ Email: sam@samcoyle.me
 	<li>GPA: 4.0</li>
 	<li>Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018</li>
 </ul>
+
 
 <strong>Professional Experience</strong>
 
@@ -58,4 +59,4 @@ Email: sam@samcoyle.me
 	Compilers Research Lab
 		Spring 2018 - present
 
-</section>
+</div>
