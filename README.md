@@ -18,13 +18,11 @@ Email: sam@samcoyle.me
 
 ### Resume
 
-<strong>Education</strong>
+##<em>Education</em>
 
 ```markdown
-<ul>
-	<li>GPA: 4.0</li>
-	<li>Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018</li>
-</ul>
+	GPA: 4.0
+	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
 ```
 
 <strong>Professional Experience</strong>
