@@ -18,14 +18,13 @@ Email: sam@samcoyle.me
 
 ### Resume
 
-//```markdown
-**Education**
+<strong>Education</strong>
 
 <ul>
 	<li>GPA: 4.0</li>
 	<li>Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018</li>
 </ul>
-**Professional Experience**
+<strong>Professional Experience</strong>
 
 	CGI Software Development/Engineering intern, .3 year venture.
 	
@@ -39,7 +38,7 @@ Email: sam@samcoyle.me
 
 	High School job: long-term popcorn saleswoman.
 
-**Activities**
+<strong>Activities</strong>
 
 	Computer Science Club member
 		Fall 2016 - present
@@ -56,5 +55,3 @@ Email: sam@samcoyle.me
 
 	Compilers Research Lab
 		Spring 2018 - present
-
-//```
