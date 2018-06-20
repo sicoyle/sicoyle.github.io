@@ -4,7 +4,7 @@ I am currently a student at Texas State University. With a love for solving intr
 
 Here is a [link](https://github.com/sicoyle/txstcs) to my repository dedicated to school projects.
 
-Here is a [link](http://samcoyle.me/Research/) to a github page dedicated to my research Spring 2018.
+Here is a [link](http://samcoyle.me/Research/) to a github page dedicated to my research Spring 2018
 
 Here is a [link](https://www.linkedin.com/in/samantha-coyle-a038b414a/) to my linkedin account.
 
@@ -21,9 +21,10 @@ Email: sam@samcoyle.me
 ```markdown
 **Education**
 
+<ul>
 	GPA: 4.0
 	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
-
+</ul>
 **Professional Experience**
 
 	CGI Software Development/Engineering intern, .3 year venture.
