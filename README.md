@@ -26,7 +26,9 @@ Email: sam@samcoyle.me
 	<li>Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018</li>
 </ul>
 
+</div>
 
+<div>
 <strong>Professional Experience</strong>
 
 	CGI Software Development/Engineering intern, .3 year venture.
@@ -41,6 +43,8 @@ Email: sam@samcoyle.me
 
 	High School job: long-term popcorn saleswoman.
 
+</div>
+<div>
 <strong>Activities</strong>
 
 	Computer Science Club member
