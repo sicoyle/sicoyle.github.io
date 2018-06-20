@@ -18,14 +18,14 @@ Email: sam@samcoyle.me
 
 ### Resume
 
-##Education
+## Education
 
 ```markdown
 	GPA: 4.0
 	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
 ```
 
-<strong>Professional Experience</strong>
+# <em>Professional Experience</em>
 
 ```markdown
 	CGI Software Development/Engineering intern, .3 year venture.
