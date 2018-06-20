@@ -18,7 +18,7 @@ Email: sam@samcoyle.me
 
 ### Resume
 
-```markdown
+//```markdown
 **Education**
 
 <ul>
@@ -57,4 +57,4 @@ Email: sam@samcoyle.me
 	Compilers Research Lab
 		Spring 2018 - present
 
-```
+//```
