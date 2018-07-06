@@ -69,3 +69,6 @@ Email: sam@samcoyle.me
 
 
 ```
+
+Update:
+I am working on a research paper and poster board to submit to two different conferences at the moment. After that I will be working on my own theme and design for this webpage.
