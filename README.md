@@ -26,8 +26,6 @@ Email: sam@samcoyle.me
 	
 	Dean's list Fall 2016, Spring 2017, Fall 2017, Spring 2018
 
-	Dean's list Fall 2016, Spring 2017, Fall 2017, Spring 2018
-
 ```
 
 <strong>Professional Experience</strong>
@@ -35,9 +33,9 @@ Email: sam@samcoyle.me
 ```markdown
 
 	Nokia Software Engineer coop, Fall 2018.
-
-	Researcher for runtime efficiency regarding a parallel implementation of Dijkstra's algorithm, Fall 2018.
-
+	
+	Researcher for parallel implementation of Dijkstra's algorithm, Fall 2018.
+	
 	CGI Software Development/Engineering intern, Summer 2018.
 
 	Researcher for runtime efficiency regarding C and Python, Fall 2018.
@@ -58,7 +56,7 @@ Email: sam@samcoyle.me
 
 	Society of Women Engineers member
 		Fall 2018 - present
-
+		
 	Computer Science Club member
 		Fall 2016 - present
 
@@ -68,12 +66,15 @@ Email: sam@samcoyle.me
 	International Business Ethics Case Competition
 		Team captain and competitor
 		Fall 2016 - present
+		
+	NCWIT Aspirations in Computing Community member
+		Spring 2018 - present
 
 	Math Club member
 		Spring 2016 - Spring 2018
 	
 	Bobcat Build volunteer
-		Spring 2017
+		Spring 2017	
 
 ```
 
@@ -84,8 +85,8 @@ Email: sam@samcoyle.me
 	Women in Science and Engineering (WiSE) Conference
 		Research poster competitor
 		Spring 2018
-
-	Super Computing Conference
+		
+	Super Computing (SC) Conference
 		Experiencing HPC for Undergraduates program
 		Research poster presenter
 		Spring 2018
@@ -93,7 +94,7 @@ Email: sam@samcoyle.me
 	High-Performance Computer Architecture (HPCA) Conference
 		Research paper submission
 		TBA 2019
-
+		
 ```
 
 <strong>Certifications</strong>
