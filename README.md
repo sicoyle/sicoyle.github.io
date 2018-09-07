@@ -81,20 +81,19 @@ Email: sam@samcoyle.me
 <strong>Conferences</strong>
 
 ```markdown
+	High-Performance Computer Architecture (HPCA) Conference
+		Research paper submission
+		TBA 2019
 
-	Women in Science and Engineering (WiSE) Conference
-		Research poster competitor
-		Spring 2018
-		
 	Super Computing (SC) Conference
 		Experiencing HPC for Undergraduates program
 		Research poster presenter
 		Spring 2018
-	
-	High-Performance Computer Architecture (HPCA) Conference
-		Research paper submission
-		TBA 2019
 		
+	Women in Science and Engineering (WiSE) Conference
+		Research poster competitor
+		Spring 2018
+			
 ```
 
 <strong>Certifications</strong>
