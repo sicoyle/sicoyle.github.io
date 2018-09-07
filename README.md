@@ -24,7 +24,7 @@ Email: sam@samcoyle.me
 
 	GPA: 4.0
 
-	Dean's list Fall 2016, Spring 2017, Fall 2017, Sping 2018
+	Dean's list Fall 2016, Spring 2017, Fall 2017, Spring 2018
 
 ```
 
@@ -32,18 +32,21 @@ Email: sam@samcoyle.me
 
 ```markdown
 
-	CGI Software Development/Engineering intern, .3 year venture.
-	
-	Researcher for runtime efficiency regarding C and Python.
+	Nokia Software Engineer coop, Fall 2018.
 
-	Researcher for ocular tracking via MatLab.
+	Researcher for runtime efficiency regarding a parallel implementation of Dijkstra's algorithm, Fall 2018.
 
-	Texas State Supplemental Instructor for Calculus I.
+	CGI Software Development/Engineering intern, Summer 2018.
 
-	Texas State University Grader for Assembly Language and Data Structures.
+	Researcher for runtime efficiency regarding C and Python, Fall 2018.
+
+	Texas State University Grader for Assembly Language and Data Structures, Spring 2018.
+
+	Researcher for ocular tracking via MatLab, Fall 2017.
+
+	Texas State Supplemental Instructor for Calculus I, Fall 2017.
 
 	High School job: long-term popcorn saleswoman.
-
 
 ```
 
@@ -51,24 +54,51 @@ Email: sam@samcoyle.me
 
 ```markdown
 
+	Society of Women Engineer member
+		Fall 2018 - present
+
 	Computer Science Club member
 		Fall 2016 - present
-
-	Math Club member
-		Spring 2016 - present
-
-	International Business Ethics Case Competition
-		Team captain and competitor
-		Fall 2016 - present
-	
-	Bobcat Build volunteer
-		Spring 2017
 
 	Compilers Research Lab
 		Spring 2018 - present
 
+	International Business Ethics Case Competition
+		Team captain and competitor
+		Fall 2016 - present
+
+	Math Club member
+		Spring 2016 - Spring 2018
+	
+	Bobcat Build volunteer
+		Spring 2017
 
 ```
 
-Update:
-I am working on a research paper and poster board to submit to two different conferences at the moment. After that I will be working on my own theme and design for this webpage.
+<strong>Conferences</strong>
+
+```markdown
+
+	Women in Science and Engineering (WiSE) Conference
+		Research poster competitor
+		Spring 2018
+
+	Super Computing Conference
+		Experiencing HPC for Undergraduates program
+		Research poster presenter
+		Spring 2018
+
+	High-Performance Computer Architecture (HPCA) Conference
+		Research paper submission
+		TBA 2019
+
+```
+
+<strong>Certifications</strong>
+
+```markdown
+
+	SCRUM framework certification, 2018
+
+```
+
