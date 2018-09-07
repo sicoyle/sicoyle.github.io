@@ -23,6 +23,8 @@ Email: sam@samcoyle.me
 ```markdown
 
 	GPA: 4.0
+	
+	Dean's list Fall 2016, Spring 2017, Fall 2017, Spring 2018
 
 	Dean's list Fall 2016, Spring 2017, Fall 2017, Spring 2018
 
