@@ -35,7 +35,7 @@ Email: sam@samcoyle.me
 	Nokia Software Engineer coop, Fall 2018.
 	
 	Researcher for parallel implementation of Dijkstra's algorithm, Fall 2018.
-	
+
 	CGI Software Development/Engineering intern, Summer 2018.
 
 	Researcher for runtime efficiency regarding C and Python, Fall 2018.
