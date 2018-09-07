@@ -35,17 +35,17 @@ Email: sam@samcoyle.me
 	Nokia Software Engineer coop, Fall 2018.
 	
 	Researcher for parallel implementation of Dijkstra's algorithm, Fall 2018.
-
+	
 	CGI Software Development/Engineering intern, Summer 2018.
-
+	
 	Researcher for runtime efficiency regarding C and Python, Fall 2018.
-
+	
 	Texas State University Grader for Assembly Language and Data Structures, Spring 2018.
-
+	
 	Researcher for ocular tracking via MatLab, Fall 2017.
-
-	Texas State Supplemental Instructor for Calculus I, Fall 2017.
-
+	
+	Texas State University Supplemental Instructor for Calculus I, Fall 2017.
+	
 	High School job: long-term popcorn saleswoman.
 
 ```
