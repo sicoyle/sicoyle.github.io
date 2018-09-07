@@ -34,7 +34,7 @@ Email: sam@samcoyle.me
 
 	Nokia Software Engineer coop, Fall 2018.
 	
-	Researcher for parallel implementation of Dijkstra's algorithm, Fall 2018.
+	Undergraduate Research Assistant for parallel computing, Fall 2018.
 	
 	CGI Software Development/Engineering intern, Summer 2018.
 	
@@ -59,22 +59,22 @@ Email: sam@samcoyle.me
 		
 	Computer Science Club member
 		Fall 2016 - present
-
+		
 	Compilers Research Lab
 		Spring 2018 - present
-
+		
 	International Business Ethics Case Competition
 		Team captain and competitor
 		Fall 2016 - present
 		
-	NCWIT Aspirations in Computing Community member
+	NCWIT Aspriations in Computing Community member
 		Spring 2018 - present
-
+		
 	Math Club member
-		Spring 2016 - Spring 2018
-	
+		Spring 2018 - present
+		
 	Bobcat Build volunteer
-		Spring 2017	
+		Spring 2017
 
 ```
 
@@ -90,7 +90,7 @@ Email: sam@samcoyle.me
 		Experiencing HPC for Undergraduates program
 		Research poster presenter
 		Spring 2018
-
+	
 	High-Performance Computer Architecture (HPCA) Conference
 		Research paper submission
 		TBA 2019
