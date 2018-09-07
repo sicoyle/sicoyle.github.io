@@ -54,7 +54,7 @@ Email: sam@samcoyle.me
 
 ```markdown
 
-	Society of Women Engineer member
+	Society of Women Engineers member
 		Fall 2018 - present
 
 	Computer Science Club member
