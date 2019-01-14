@@ -24,7 +24,7 @@ Email: sam@samcoyle.me
 
 	GPA: 4.0
 	
-	Dean's list Fall 2016, Spring 2017, Fall 2017, Spring 2018
+	Dean's list Fall 2016, Spring 2017, Fall 2017, Spring 2018, Fall 2018
 
 ```
 
@@ -81,9 +81,6 @@ Email: sam@samcoyle.me
 <strong>Conferences</strong>
 
 ```markdown
-	High-Performance Computer Architecture (HPCA) Conference
-		Research paper submission
-		TBA 2019
 
 	Super Computing (SC) Conference
 		Experiencing HPC for Undergraduates program
