@@ -100,3 +100,16 @@ Email: sam@samcoyle.me
 
 ```
 
+<strong>Hackathonsi and Workshops</strong>
+
+```markdown
+
+	Pivotal Days Austin
+		Kubernetes workshop
+		December, 2018	
+
+	Dell Hack to Hire Event Hackathon
+		Create social media platform using Python Flask
+		October, 2018
+	
+```
