@@ -84,7 +84,6 @@ Email: sam@samcoyle.me
 
 	Super Computing (SC) Conference
 		Experiencing HPC for Undergraduates program
-		Research poster presenter
 		Spring 2018
 		
 	Women in Science and Engineering (WiSE) Conference
