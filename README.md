@@ -32,6 +32,8 @@ Email: sam@samcoyle.me
 
 ```markdown
 
+	Dell Software Engineer intern, Summer 2019.
+
 	Nokia Software Engineer coop, Fall 2018.
 	
 	Undergraduate Research Assistant for parallel computing, Fall 2018.
@@ -71,7 +73,7 @@ Email: sam@samcoyle.me
 		Spring 2018 - present
 		
 	Math Club member
-		Spring 2018 - present
+		Spring 2018 - Fall 2018
 		
 	Bobcat Build volunteer
 		Spring 2017
@@ -81,6 +83,10 @@ Email: sam@samcoyle.me
 <strong>Conferences</strong>
 
 ```markdown
+
+	GopherCon
+		Diversity Fund Scholarship recipient
+		Spring 2019
 
 	Super Computing (SC) Conference
 		Experiencing HPC for Undergraduates program
@@ -100,16 +106,26 @@ Email: sam@samcoyle.me
 
 ```
 
-<strong>Hackathonsi and Workshops</strong>
+<strong>Hackathons and Workshops</strong>
 
 ```markdown
 
 	Pivotal Days Austin
 		Kubernetes workshop
-		December, 2018	
+		December, 2018
 
 	Dell Hack to Hire Event Hackathon
 		Create social media platform using Python Flask
-		October, 2018
-	
+		October, 2018	
+
+```
+
+<strong>Projects</strong>
+
+```markdown
+
+	Farmacy Meals
+		Web application for an online ordering system using Python Flask
+		Spring 2019
+
 ```
