@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 ## Welcome to Samantha Coyle's Website
 
 I am currently a student at Texas State University. With a love for solving intricate problems, I decided to become a Computer Science major. I am excited to continue learning about how Computer Science applies to the world and how it improves our day-to-day lives.
